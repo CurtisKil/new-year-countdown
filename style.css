@@ -70,6 +70,9 @@ h1 {
 }
 
 @media (max-width: 900px) {
+  body {
+    background-size: contain;
+  }
   h1 {
     font-size: 45px;
   }
